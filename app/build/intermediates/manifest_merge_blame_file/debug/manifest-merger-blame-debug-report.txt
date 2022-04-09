@@ -1,0 +1,51 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hcdxg.mygame"
+4    android:versionCode="1"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml:8:5-80
+11-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml:8:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml:9:5-79
+12-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml:9:22-77
+13
+14    <application
+14-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml:11:5-24:19
+15        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+15-->[com.android.support:support-compat:28.0.0] E:\android\gradle\gradle-7.0-rc-1-all\gradle-7.0-rc-1\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+16        android:debuggable="true"
+17        android:icon="@drawable/ic_launcher"
+17-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml:12:9-45
+18        android:label="@string/app_name"
+18-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml:13:9-41
+19        android:testOnly="true"
+20        android:theme="@style/Theme.AppCompat.Light" >
+20-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml:14:9-53
+21        <activity
+21-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml:15:9-23:20
+22            android:name="com.hcdxg.mygame.MainActivity"
+22-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml:17:13-41
+23            android:label="@string/app_name" >
+23-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml:16:13-45
+24            <intent-filter>
+24-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml:18:13-22:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml:19:17-69
+25-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml:19:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml:21:17-77
+27-->E:\android\AndroidStudioProjects\synthesis_watermelon-master\synthesis_watermelon-master\app\src\main\AndroidManifest.xml:21:27-74
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android\\AndroidStudioProjects\\synthesis_watermelon-master\\synthesis_watermelon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\android\\AndroidStudioProjects\\synthesis_watermelon-master\\synthesis_watermelon-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\android\\AndroidStudioProjects\\synthesis_watermelon-master\\synthesis_watermelon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\android\\AndroidStudioProjects\\synthesis_watermelon-master\\synthesis_watermelon-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
